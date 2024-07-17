@@ -3,8 +3,8 @@
  - 🦀 I love Rust
    
  - 🔭 I’m currently working:
-  *Butler a batteries included web framework for Rust
-  *A lightweight and simple IDE for Rust
+   - Butler a batteries included web framework for Rust
+   - A lightweight and simple IDE for Rust
 
 <!--
 **incrediblemhi/incrediblemhi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
