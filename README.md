@@ -3,7 +3,7 @@
  - 🦀 I love Rust
    
  - 🔭 I’m currently working:
-   - Butler a batteries included web framework for Rust
+   - Butler: a batteries included web framework for Rust
    - A lightweight and simple IDE for Rust
 
 <!--
