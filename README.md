@@ -3,8 +3,7 @@
  - 🦀 I love Rust
    
  - 🔭 I’m currently working:
-   - Shipfast: a rust web framework for shiping fast.
-   - A lightweight and simple IDE for Rust
+   - NoApi: A fullstack framework for rust that uses axum as the backend and react as the frontend.
 
 <!--
 **incrediblemhi/incrediblemhi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
